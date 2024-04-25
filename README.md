@@ -1,4 +1,4 @@
-# Concept
+# Lazyman
 
 Um simples e prático To-do list para organização das tarefas diárias!
 
